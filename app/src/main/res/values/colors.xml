@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="whiteMint">#B8FFD9</color>
+    <color name="lightestMint">#92ddc8</color>
+    <color name="lightMint">#81b69d</color>
+    <color name="mint">#5aa17f</color>
+    <color name="darkMint">#137a63</color>
+    <color name="darkestMint">	#0a3a2a</color>
+</resources>
